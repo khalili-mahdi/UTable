@@ -1,0 +1,17 @@
+module UTable
+Card 1.0 UCard.qml
+HCard 1.0 UHCard.qml
+HeaderButton 1.0 UHeaderButton.qml
+Sortable 1.0 USortTable.qml
+Columns 1.0 UColumns.qml
+Column 1.0 UColumn.qml
+ValueMask 1.0 UValueMask.qml
+SortMasks 1.0 USortMasks.qml
+Text 1.0 UText.qml
+ValueConverters 1.0 UValueConverters.qml
+ValueConverter 1.0 UValueConverter.qml
+singleton Colors 1.0 UColors.qml
+singleton InputMasks 1.0 UInputMasks.qml
+singleton ValueMasks 1.0 UValueMasks.qml
+singleton FontMaterialDesign 1.0 UFontMaterialDesign.qml
+

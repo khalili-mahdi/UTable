@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="UTable">
+        <file>qmldir</file>
+        <file>UCard.qml</file>
+        <file>UColors.qml</file>
+        <file>UColumn.qml</file>
+        <file>UColumns.qml</file>
+        <file>UFontMaterialDesign.qml</file>
+        <file>UHCard.qml</file>
+        <file>UHeaderButton.qml</file>
+        <file>UListObject.qml</file>
+        <file>USortTable.qml</file>
+        <file>UValueConverter.qml</file>
+        <file>UValueConverters.qml</file>
+        <file>UValueMask.qml</file>
+        <file>UValueMasks.qml</file>
+    </qresource>
+</RCC>

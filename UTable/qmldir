@@ -1,5 +1,6 @@
 module UTable
 Card 1.0 UCard.qml
+Cell 1.0 UCell.qml
 HCard 1.0 UHCard.qml
 HeaderButton 1.0 UHeaderButton.qml
 Sortable 1.0 USortTable.qml

@@ -187,7 +187,8 @@ ListView{
                                 //define dynamic properties to loader default property 'loader.item' - runtime properties to existing object
                                 Object.defineProperty(cellloader.item,'rowIndex',{get(){return _model.index}});
                                 Object.defineProperty(cellloader.item,'modelData',{get(){return _model}});
-
+                                if(currentItem.cell !== null)
+                                    cellloader.item.bind()
                             }
                         }
                         Rectangle{
